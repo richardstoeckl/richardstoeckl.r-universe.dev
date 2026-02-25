@@ -3,7 +3,7 @@
         "package": "rgbio",
         "url": "https://github.com/richardstoeckl/rgbio",
         "branch": "*release"
-    }
+    },
     {
         "package": "archaeacentre",
         "url": "https://github.com/richardstoeckl/archaeacentre",
