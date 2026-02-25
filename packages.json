@@ -1,11 +1,14 @@
 [
     {
         "package": "rgbio",
-        "url": "https://github.com/richardstoeckl/rgbio",
-        "branch": "*release"
+        "url": "https://github.com/richardstoeckl/rgbio"
     },
     {
         "package": "archaeacentre",
-        "url": "https://github.com/richardstoeckl/archaeacentre",
+        "url": "https://github.com/richardstoeckl/archaeacentre"
+    },
+    {
+        "package": "rksfun",
+        "url": "https://github.com/richardstoeckl/rksfun"
     }
 ]
